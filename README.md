@@ -3,7 +3,7 @@
 
 # Raw Theme
 
-- 'system24hate.theme.css'
+- `system24hate.theme.css`
 
 ## system24
 

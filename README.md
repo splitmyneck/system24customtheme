@@ -1,6 +1,10 @@
 
 <img src="https://github.com/splitmyneck/system24customtheme/blob/main/preview.png">
 
-# system24
+# Raw Theme
 
-The Theme: [There](https://github.com/refact0r/system24)
+- [hate](https://github.com/splitmyneck/system24customtheme/blob/main/system24hate.theme.css)
+
+## system24
+
+The original theme: [There](https://github.com/refact0r/system24)
